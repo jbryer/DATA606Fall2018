@@ -15,8 +15,8 @@ editURL = "https://github.com/jbryer/DATA606Fall2018/tree/master/content/"
 noHomeIcon = false # default is false
 noSearch = false # default is false
 showVisitedLinks = true # default is false
-# themeStyle = "theme" # overide base css
-themeVariant = "green" # choose theme variant "green", "gold" , "gray", "blue" (default)
+themeStyle = "flex" # "flex" or "original"
+themeVariant = "gray" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 
 [outputs]

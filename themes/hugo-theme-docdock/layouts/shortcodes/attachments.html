@@ -16,7 +16,7 @@
 					<a href="{{ printf "%s/%s%s/%s" $.Site.BaseURL $fileDir ($.Scratch.Get "filesName") .Name }}" >
 						{{.Name}}
 					</a>
-					({{div .Size 1024 }} ko)
+					({{div .Size 1024 }} kB)
 				</li>
 			{{end}}
 		{{else}}
@@ -24,7 +24,7 @@
 				<a href="{{ printf "%s/%s%s/%s" $.Site.BaseURL $fileDir ($.Scratch.Get "filesName") .Name }}" >
 					{{.Name}}
 				</a>
-				({{div .Size 1024 }} ko)
+				({{div .Size 1024 }} kB)
 			</li>
 		{{end}}
 	{{end}}
