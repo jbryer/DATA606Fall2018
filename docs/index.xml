@@ -238,5 +238,14 @@ install.packages(c(&amp;#39;openintro&amp;#39;,&amp;#39;OIdata&amp;#39;,&amp;#39
       <description>DATA606 - Spring 2018</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/_footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/_footer/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
