@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annoucement on DATA606 - Fall 2018</title>
+    <link>/tags/annoucement/</link>
+    <description>Recent content in Annoucement on DATA606 - Fall 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/annoucement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to DATA606!</title>
+      <link>/post/2018-01-29-welcome-to-data606/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-29-welcome-to-data606/</guid>
+      <description>Welcome to DATA606! My name is Dr. Jason Bryer and I will be your instructor for this semester. In addition to teaching this course, I am an Executive Director at Excelsior College where I am currently working on a Department of Education grant to develop a Diagnostic Assessment and Achievement of College Skills (see www.DAACS.net for more information). Our first meeting will be on Tuesday, August 29th, but will typically be on Wednesdays for the rest of the semester.</description>
+    </item>
+    
+  </channel>
+</rss>

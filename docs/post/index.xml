@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on DATA606 - Fall 2018</title>
+    <link>/post/</link>
+    <description>Recent content in Announcements on DATA606 - Fall 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started with R</title>
+      <link>/post/2018-01-29-getting-started-with-r/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-29-getting-started-with-r/</guid>
+      <description>To get started with the labs, you will need to install R and other supporting applications. Links to download all the software is on the Software page at http://data606.net/software which is available on the Misc menu. Once you are in RStudio, you will need to install a number of R packages using the following two commands:
+install.packages(c(&amp;#39;openintro&amp;#39;,&amp;#39;OIdata&amp;#39;,&amp;#39;devtools&amp;#39;,&amp;#39;ggplot2&amp;#39;,&amp;#39;psych&amp;#39;,&amp;#39;reshape2&amp;#39;, &amp;#39;knitr&amp;#39;,&amp;#39;markdown&amp;#39;,&amp;#39;shiny&amp;#39;)) devtools::install_github(&amp;quot;jbryer/DATA606&amp;quot;) Note that this course used to be listed as IS 606, hence the different package name.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to DATA606!</title>
+      <link>/post/2018-01-29-welcome-to-data606/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-29-welcome-to-data606/</guid>
+      <description>Welcome to DATA606! My name is Dr. Jason Bryer and I will be your instructor for this semester. In addition to teaching this course, I am an Executive Director at Excelsior College where I am currently working on a Department of Education grant to develop a Diagnostic Assessment and Achievement of College Skills (see www.DAACS.net for more information). Our first meeting will be on Tuesday, August 29th, but will typically be on Wednesdays for the rest of the semester.</description>
+    </item>
+    
+  </channel>
+</rss>
