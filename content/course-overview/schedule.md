@@ -1,6 +1,6 @@
 +++
 title = "Schedule"
-description = ""
+description = "Schedule"
 weight = 1
 +++
 
