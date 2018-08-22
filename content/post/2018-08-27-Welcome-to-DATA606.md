@@ -1,12 +1,12 @@
 ---
 title: "Welcome to DATA606!"
 author: "Jason Bryer"
-date: 2018-01-29
+date: 2018-08-27
 categories: ["R"]
 tags: ["Annoucement"]
 ---
 
-Welcome to DATA606! My name is Dr. Jason Bryer and I will be your instructor for this semester. In addition to teaching this course, I am an Executive Director at [Excelsior College](http://excelsior.edu) where I am currently working on a Department of Education grant to develop a Diagnostic Assessment and Achievement of College Skills (see [www.DAACS.net](http://www.daacs.net) for more information). Our first meeting will be on Tuesday, August 29th, but will typically be on Wednesdays for the rest of the semester. Couple of important notes as you get started:
+Welcome to DATA606! My name is Dr. Jason Bryer and I will be your instructor for this semester. In addition to teaching this course, I am an Executive Director at [Excelsior College](http://excelsior.edu) where I am currently working on a Department of Education grant to develop a Diagnostic Assessment and Achievement of College Skills (see [www.DAACS.net](http://www.daacs.net) for more information). Our first meeting will be on Wednesday, September 5th. Couple of important notes as you get started:
 
 * The course syllabus is on Github here: [data606.net](http://data606.net) I will post all course materials there. Blackboard will be used primarily for submitting assignments.
 * Introduce yourself in the Getting Acquainted forum on Blackboard.

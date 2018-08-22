@@ -6,7 +6,7 @@
       <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="generator" content="Hugo 0.46" />
-<title>Chapter 5 :: DATA606 - Fall 2018</title>
+<title>Welcome to DATA606! :: DATA606 - Fall 2018</title>
 <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link href="/css/font-awesome.min.css" rel="stylesheet">
 <link href="/css/nucleus.css" rel="stylesheet">
@@ -25,7 +25,7 @@
 
     
   </head>
-  <body data-url="/chapters/chapter5/">
+  <body data-url="/post/2018-08-27-welcome-to-data606/">
     
       <header>
   <div class="logo">
@@ -79,12 +79,20 @@
             <i class="fa fa-fw fa-home"></i>
           </a>
           </li>
-    <li data-nav-id="/post/" class="dd-item haschildren
+    <li data-nav-id="/post/" class="dd-item parent haschildren
         ">
       <div>
-      <a href="/post/">Announcements</a><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+      <a href="/post/">Announcements</a>
+            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </div>
         <ul>
+      <li data-nav-id="/post/2018-08-27-welcome-to-data606/" class="dd-item active">
+        <div>
+          <a href="/post/2018-08-27-welcome-to-data606/">
+            Welcome to DATA606!
+          </a><i class="fa fa-circle-thin read-icon"></i>
+        </div>
+    </li>
       <li data-nav-id="/post/2018-08-28-getting-started-with-r/" class="dd-item">
         <div>
           <a href="/post/2018-08-28-getting-started-with-r/">
@@ -181,11 +189,10 @@
     </li>
         </ul>
     </li>
-    <li data-nav-id="/chapters/" class="dd-item parent haschildren
+    <li data-nav-id="/chapters/" class="dd-item haschildren
         ">
       <div>
-      <a href="/chapters/">Chapters</a>
-            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+      <a href="/chapters/">Chapters</a><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </div>
         <ul>
       <li data-nav-id="/chapters/chapter1/" class="dd-item">
@@ -216,7 +223,7 @@
           </a><i class="fa fa-circle-thin read-icon"></i>
         </div>
     </li>
-      <li data-nav-id="/chapters/chapter5/" class="dd-item active">
+      <li data-nav-id="/chapters/chapter5/" class="dd-item">
         <div>
           <a href="/chapters/chapter5/">
             Chapter 5
@@ -268,7 +275,10 @@
         <select onchange="javascript:location.href = this.value;">
           
     <option value="/post/" >
-   Announcements</option>
+   Announcements</option> 
+      <option value="/post/2018-08-27-welcome-to-data606/"  selected>- Welcome to DATA606!</option>
+      <option value="/post/2018-08-28-getting-started-with-r/" >- Getting Started with R</option>
+  
     <option value="/course-overview/" >
    Course Overview</option> 
       <option value="/course-overview/schedule/" >- Schedule</option>
@@ -281,17 +291,7 @@
     <option value="/assignments/" >
    Assignments</option>
     <option value="/chapters/" >
-   Chapters</option> 
-      <option value="/chapters/chapter1/" >- Chapter 1</option>
-      <option value="/chapters/chapter2/" >- Chapter 2</option>
-      <option value="/chapters/chapter3/" >- Chapter 3</option>
-      <option value="/chapters/chapter4/" >- Chapter 4</option>
-      <option value="/chapters/chapter5/"  selected>- Chapter 5</option>
-      <option value="/chapters/chapter6/" >- Chapter 6</option>
-      <option value="/chapters/chapter7/" >- Chapter 7</option>
-      <option value="/chapters/chapter8/" >- Chapter 8</option>
-      <option value="/chapters/bayesian/" >- Bayesian</option>
-  
+   Chapters</option>
 
 
 
@@ -314,47 +314,28 @@
       </div>
     
 
-    <h1>Chapter 5</h1>
+    <h1>Welcome to DATA606!</h1>
     
     
     
-    
-
-<h2 id="chapter-5">Chapter 5</h2>
-
-<h2 id="assignments">Assignments</h2>
-
-<h3 id="homework">Homework</h3>
-
-<p><em>OpenIntro Statistics</em></p>
+    <p>Welcome to DATA606! My name is Dr. Jason Bryer and I will be your instructor for this semester. In addition to teaching this course, I am an Executive Director at <a href="http://excelsior.edu">Excelsior College</a> where I am currently working on a Department of Education grant to develop a Diagnostic Assessment and Achievement of College Skills (see <a href="http://www.daacs.net">www.DAACS.net</a> for more information). Our first meeting will be on Wednesday, September 5th. Couple of important notes as you get started:</p>
 
 <ul>
-<li>Practice:</li>
-<li>Graded:</li>
+<li>The course syllabus is on Github here: <a href="http://data606.net">data606.net</a> I will post all course materials there. Blackboard will be used primarily for submitting assignments.</li>
+<li>Introduce yourself in the Getting Acquainted forum on Blackboard.</li>
+<li>Once you go through the syllabus, try starting Lab 0 as soon as you can. This will require you to install R and RStudioand will help get you get acquainted with R.</li>
+<li>The best way to reach me is by email at jason.bryer@gmail.com. If you would prefer to talk on the phone or setup a GoToMeeting session, it is best to suggest some times by email first.</li>
+<li>Our meetups will be on Wednesday from 8pm to 9pm.</li>
+<li>I am looking forward to getting to know everyone and a fantastic semester! Good luck!</li>
 </ul>
-
-<h3 id="lab">Lab</h3>
-
-<p>The labs are available in the <code>DATA606</code> R package. To start the first lab, use the <code>startLab</code> function. This will copy the lab to your current working directory and rename the file according to your computer username (as returend by <code>Sys.info()['user']</code>). If this is incorrect, then either provide the <code>file-prefix</code> parameter to <code>startLab</code>, or rename the file after it has been copied.</p>
-
-<pre><code class="language-r">DATA606::startLab('Lab5')
-</code></pre>
-
-<h2 id="readings">Readings</h2>
-
-<ul>
-<li><a href="https://github.com/jbryer/DATA606Spring2018/raw/master/Slides/OpenIntro/os2_slides_05.pdf">OpenIntro Statistics slides</a></li>
-</ul>
-
-<h2 id="videos">Videos</h2>
 
 
     
     
         <div class="chevrons">
     <div id="navigation">
-<a class="nav nav-prev" href="/chapters/chapter4/" title="Chapter 4"> <i class="fa fa-chevron-left"></i><label>Chapter 4</label></a>
-    <a class="nav nav-next" href="/chapters/chapter6/" title="Chapter 6" style="margin-right: 0px;"><label>Chapter 6</label><i class="fa fa-chevron-right"></i></a></div>
+<a class="nav nav-prev" href="/post/" title="Announcements"> <i class="fa fa-chevron-left"></i><label>Announcements</label></a>
+    <a class="nav nav-next" href="/post/2018-08-28-getting-started-with-r/" title="Getting Started with R" style="margin-right: 0px;"><label>Getting Started with R</label><i class="fa fa-chevron-right"></i></a></div>
   </div>
 
   </section>
@@ -364,17 +345,23 @@
 
 <div class="footline">
     
+    <div class="tags"> 
+      
+        <a class="label label-default" href="/tags/annoucement">Annoucement</a>
+      
+    </div>
+    
 
     
 
   
     <div class="date">
-        <i class='fa fa-calendar'></i> Last update on 29/04/2017
+        <i class='fa fa-calendar'></i> Last update on 27/08/2018
     </div>
     
 
     <div class="github-link">
-      <a href="https://github.com/jbryer/DATA606Fall2018/tree/master/content/chapters/chapter5.md" target="blank"><i class="fa fa-code-fork"></i>
+      <a href="https://github.com/jbryer/DATA606Fall2018/tree/master/content/post/2018-08-27-Welcome-to-DATA606.md" target="blank"><i class="fa fa-code-fork"></i>
         Improve this page</a>
     </div>
   </div>

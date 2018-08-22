@@ -16,22 +16,22 @@ Access Code: 890-853-557
 [Presentation Signup Sheet](https://docs.google.com/spreadsheets/d/1QCagC9KIhWvmSOTKmqYo0FTq1iZUdh765m7kmrqSPRc/edit?usp=sharing)
 
 
-Date                 | Topic                           | Resources |
-:--------------------|:--------------------------------|:----------|
-Wed,  8:00 pm | Intro to Course                 | 
-Wed, 8:00 pm  | Intro to Data                   | 
-Wed,  8:00 pm | Probability                     | 
-Wed,  8:00 pm | Distributions Part I            | 
-Wed,  8:00 pm | Distributions Part II           | 
-Wed, 8:00 pm  | Foundation for Inference        | 
-Wed,  8:00 pm | Foundation for Inference cont.  | 
-Wed,  8:00pm  | Inference for Numerical Data    | 
-Wed,  8:00pm  | Inference for Categorical Data  | 
-April         | NO MEETUP                       | 
-Wed,  8:00 pm | Linear Regression               | 
-Wed,  8:00 pm | Linear Regression cont.         | 
-Wed,  8:00 pm | Multiple & Logistic Regression  | 
-May 2         | NO MEETUP                       | 
-Wed, 8:00 pm  | Intro to Bayesian Analysis      | 
-Wed,  8:00 pm | Wrap-Up                         | 
+Date                  | Topic                           | Resources |
+:---------------------|:--------------------------------|:----------|
+                      | Intro to Course                 | [Slides](slides/2018-08-29-Intro_to_Course.html)
+Wed, Sep 5, 8:00 pm   | Intro to Data                   | 
+Wed, Sep 12,  8:00 pm | Probability                     | 
+September 19          | NO MEETUP - Yom Kippur          | 
+Wed, Sep 26,  8:00 pm | Distributions Part I            | 
+Wed, Oct 3,  8:00 pm  | Distributions Part II           | 
+Wed, Oct 10, 8:00 pm  | Foundation for Inference        | 
+Wed, Oct 17, 8:00 pm  | Foundation for Inference cont.  | 
+Wed, Oct 24,  8:00pm  | Inference for Numerical Data    | 
+Wed, Oct 31,  8:00pm  | Inference for Categorical Data  | 
+Wed, Nov 7, 8:00 pm   | Linear Regression               | 
+Wed, Nov 14,  8:00 pm | Linear Regression cont.         | 
+November 21           | NO MEETUP - Thanksgiving        | 
+Wed, Nov 28, 8:00 pm  | Multiple & Logistic Regression  | 
+Wed, Dec 5, 8:00 pm   | Intro to Bayesian Analysis      | 
+Wed, Dec 12, 8:00 pm  | Wrap-Up                         | 
 

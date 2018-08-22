@@ -6,7 +6,7 @@
       <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="generator" content="Hugo 0.46" />
-<title>Chapter 5 :: DATA606 - Fall 2018</title>
+<title>Getting Started with R :: DATA606 - Fall 2018</title>
 <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link href="/css/font-awesome.min.css" rel="stylesheet">
 <link href="/css/nucleus.css" rel="stylesheet">
@@ -25,7 +25,7 @@
 
     
   </head>
-  <body data-url="/chapters/chapter5/">
+  <body data-url="/post/2018-08-28-getting-started-with-r/">
     
       <header>
   <div class="logo">
@@ -79,13 +79,14 @@
             <i class="fa fa-fw fa-home"></i>
           </a>
           </li>
-    <li data-nav-id="/post/" class="dd-item haschildren
+    <li data-nav-id="/post/" class="dd-item parent haschildren
         ">
       <div>
-      <a href="/post/">Announcements</a><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+      <a href="/post/">Announcements</a>
+            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </div>
         <ul>
-      <li data-nav-id="/post/2018-08-28-getting-started-with-r/" class="dd-item">
+      <li data-nav-id="/post/2018-08-28-getting-started-with-r/" class="dd-item active">
         <div>
           <a href="/post/2018-08-28-getting-started-with-r/">
             Getting Started with R
@@ -181,11 +182,10 @@
     </li>
         </ul>
     </li>
-    <li data-nav-id="/chapters/" class="dd-item parent haschildren
+    <li data-nav-id="/chapters/" class="dd-item haschildren
         ">
       <div>
-      <a href="/chapters/">Chapters</a>
-            <i class="fa fa-angle-down fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
+      <a href="/chapters/">Chapters</a><i class="fa fa-angle-right fa-lg category-icon"></i><i class="fa fa-circle-thin read-icon"></i>
       </div>
         <ul>
       <li data-nav-id="/chapters/chapter1/" class="dd-item">
@@ -216,7 +216,7 @@
           </a><i class="fa fa-circle-thin read-icon"></i>
         </div>
     </li>
-      <li data-nav-id="/chapters/chapter5/" class="dd-item active">
+      <li data-nav-id="/chapters/chapter5/" class="dd-item">
         <div>
           <a href="/chapters/chapter5/">
             Chapter 5
@@ -268,7 +268,9 @@
         <select onchange="javascript:location.href = this.value;">
           
     <option value="/post/" >
-   Announcements</option>
+   Announcements</option> 
+      <option value="/post/2018-08-28-getting-started-with-r/"  selected>- Getting Started with R</option>
+  
     <option value="/course-overview/" >
    Course Overview</option> 
       <option value="/course-overview/schedule/" >- Schedule</option>
@@ -281,17 +283,7 @@
     <option value="/assignments/" >
    Assignments</option>
     <option value="/chapters/" >
-   Chapters</option> 
-      <option value="/chapters/chapter1/" >- Chapter 1</option>
-      <option value="/chapters/chapter2/" >- Chapter 2</option>
-      <option value="/chapters/chapter3/" >- Chapter 3</option>
-      <option value="/chapters/chapter4/" >- Chapter 4</option>
-      <option value="/chapters/chapter5/"  selected>- Chapter 5</option>
-      <option value="/chapters/chapter6/" >- Chapter 6</option>
-      <option value="/chapters/chapter7/" >- Chapter 7</option>
-      <option value="/chapters/chapter8/" >- Chapter 8</option>
-      <option value="/chapters/bayesian/" >- Bayesian</option>
-  
+   Chapters</option>
 
 
 
@@ -314,47 +306,44 @@
       </div>
     
 
-    <h1>Chapter 5</h1>
+    <h1>Getting Started with R</h1>
     
     
     
-    
-
-<h2 id="chapter-5">Chapter 5</h2>
-
-<h2 id="assignments">Assignments</h2>
-
-<h3 id="homework">Homework</h3>
-
-<p><em>OpenIntro Statistics</em></p>
-
-<ul>
-<li>Practice:</li>
-<li>Graded:</li>
-</ul>
-
-<h3 id="lab">Lab</h3>
-
-<p>The labs are available in the <code>DATA606</code> R package. To start the first lab, use the <code>startLab</code> function. This will copy the lab to your current working directory and rename the file according to your computer username (as returend by <code>Sys.info()['user']</code>). If this is incorrect, then either provide the <code>file-prefix</code> parameter to <code>startLab</code>, or rename the file after it has been copied.</p>
-
-<pre><code class="language-r">DATA606::startLab('Lab5')
-</code></pre>
-
-<h2 id="readings">Readings</h2>
-
-<ul>
-<li><a href="https://github.com/jbryer/DATA606Spring2018/raw/master/Slides/OpenIntro/os2_slides_05.pdf">OpenIntro Statistics slides</a></li>
-</ul>
-
-<h2 id="videos">Videos</h2>
+    <p>To get started with the labs, you will need to install R and other supporting applications. Links to download all the software is on the <a href="/software">Software</a> page at <a href="http://data606.net/software" class="uri">http://data606.net/software</a> which is available on the <code>Misc</code> menu. Once you are in RStudio, you will need to install a number of R packages using the following two commands:</p>
+<pre><code>install.packages(c(&#39;openintro&#39;,&#39;OIdata&#39;,&#39;devtools&#39;,&#39;ggplot2&#39;,&#39;psych&#39;,&#39;reshape2&#39;,
+                   &#39;knitr&#39;,&#39;markdown&#39;,&#39;shiny&#39;))
+devtools::install_github(&quot;jbryer/DATA606&quot;)</code></pre>
+<p>Note that this course used to be listed as IS 606, hence the different package name. The <code>library</code> command will load the package and the <code>startLab</code> function will:</p>
+<ol style="list-style-type: decimal">
+<li>Create a folder called <code>Lab0</code> in the current working directory.</li>
+<li>Open the the RMarkdown file (note that the name should have your login name).</li>
+</ol>
+<pre><code>library(DATA606)
+startLab(&#39;Lab0&#39;)</code></pre>
+<p>Note the <code>Lab0</code> directory has been created.</p>
+<div class="figure">
+<img src="/figures/RStudio-screen-files.png" alt="RStudio Files Panel" />
+<p class="caption">RStudio Files Panel</p>
+</div>
+<p>If you click <code>Lab0</code> that will take you into that folder where you will see the RMardkown file (<code>.Rmd</code> extension) along with all the supporting files. Under the <code>More</code> menu there is an option to <code>Set As Working Directory</code>, you will want to do this before working in the RMarkdown file.</p>
+<div class="figure">
+<img src="/figures/RStudio-screen-setwd.png" alt="Setting Working Directory" />
+<p class="caption">Setting Working Directory</p>
+</div>
+<p>The console pane will always tell you what your current working directory is. Clicking the arrow icon will open that folder in the <code>Files</code> tab on the right. R will look for files and directories that do not have absolute paths (i.e. starting with <code>C:</code> on windows or <code>/</code> on Linux and Macs) relative to the working directory.</p>
+<div class="figure">
+<img src="/figures/RStudio-screen-wd.png" alt="Working Directory" />
+<p class="caption">Working Directory</p>
+</div>
 
 
     
     
         <div class="chevrons">
     <div id="navigation">
-<a class="nav nav-prev" href="/chapters/chapter4/" title="Chapter 4"> <i class="fa fa-chevron-left"></i><label>Chapter 4</label></a>
-    <a class="nav nav-next" href="/chapters/chapter6/" title="Chapter 6" style="margin-right: 0px;"><label>Chapter 6</label><i class="fa fa-chevron-right"></i></a></div>
+<a class="nav nav-prev" href="/post/" title="Announcements"> <i class="fa fa-chevron-left"></i><label>Announcements</label></a>
+    <a class="nav nav-next" href="/course-overview/" title="Course Overview" style="margin-right: 0px;"><label>Course Overview</label><i class="fa fa-chevron-right"></i></a></div>
   </div>
 
   </section>
@@ -364,17 +353,25 @@
 
 <div class="footline">
     
+    <div class="tags"> 
+      
+        <a class="label label-default" href="/tags/r-markdown">R Markdown</a>
+      
+        <a class="label label-default" href="/tags/working-directories">working directories</a>
+      
+    </div>
+    
 
     
 
   
     <div class="date">
-        <i class='fa fa-calendar'></i> Last update on 29/04/2017
+        <i class='fa fa-calendar'></i> Last update on 29/01/2018
     </div>
     
 
     <div class="github-link">
-      <a href="https://github.com/jbryer/DATA606Fall2018/tree/master/content/chapters/chapter5.md" target="blank"><i class="fa fa-code-fork"></i>
+      <a href="https://github.com/jbryer/DATA606Fall2018/tree/master/content/post/2018-08-28-getting-started-with-r.html" target="blank"><i class="fa fa-code-fork"></i>
         Improve this page</a>
     </div>
   </div>

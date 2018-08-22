@@ -14,14 +14,14 @@ weight = 1
 
 Start  | Due Date | Chapter | Topic                              
 :------|:---------|:-------:|:-----------------------------------
- |    | 1       | [Intro to Data](/chapters/chapter1)
- |    | 2       | [Probability](/chapters/chapter2)
- |    | 3       | [Distributions](/chapters/chapter3)
- |    | 4       | [Foundation for Inference](/chapters/chapter4)
- |    | 5       | [Inference for Numerical Data](/chapters/chapter5)
- |    | 6       | [Inference for Categorical Data](/chapters/chapter6)
- |    | 7       | [Linear Regression](/chapters/chapter7)
- |    | 8       | [Multiple & Logistic Regression](/chapters/chapter8)
- |    | Navarro | [Introduction to Bayesian Analysis](/chapters/chapter9)
- |    |         | Final Exam
+Aug-27 | Sep-9    | 1       | [Intro to Data](/chapters/chapter1)
+Sep-10 | Sep-23   | 2       | [Probability](/chapters/chapter2)
+Sep-24 | Oct-7    | 3       | [Distributions](/chapters/chapter3)
+Oct-8  | Oct-21   | 4       | [Foundation for Inference](/chapters/chapter4)
+Oct-22 | Oct-28   | 5       | [Inference for Numerical Data](/chapters/chapter5)
+Oct-29 | Nov-4    | 6       | [Inference for Categorical Data](/chapters/chapter6)
+Nov-5  | Nov-25   | 7       | [Linear Regression](/chapters/chapter7)
+Nov-26 | Dec-9    | 8       | [Multiple & Logistic Regression](/chapters/chapter8)
+Dec-10 | Dec-12   | Navarro | [Introduction to Bayesian Analysis](/chapters/chapter9)
+Dec-13 | Dec-17   |         | Final Exam
 
