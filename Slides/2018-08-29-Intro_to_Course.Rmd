@@ -1,7 +1,7 @@
 ---
 title: "DATA606 - Statistics & Probability for Data Analytics"
 author: Jason Bryer, Ph.D.
-date: August 29, 2018
+date: Fall 2018
 knit: (function(inputFile, encoding) { input.dir <- normalizePath(dirname(inputFile)); rmarkdown::render(input = inputFile, encoding = encoding, quiet=FALSE, output_file = paste0(input.dir,'/../docs/slides/', tools::file_path_sans_ext(basename(inputFile)), '.html')); })
 output:
   ioslides_presentation:
