@@ -27,7 +27,7 @@ DATA606::startLab('Lab6')
 
 ## Readings
 
-* [OpenIntro Statistics slides](https://github.com/jbryer/DATA606Spring2018/raw/master/Slides/OpenIntro/os2_slides_06.pdf)
+* [OpenIntro Statistics slides](https://github.com/jbryer/DATA606Fall2018/raw/master/Slides/OpenIntro/os2_slides_06.pdf)
 
 ## Videos
 

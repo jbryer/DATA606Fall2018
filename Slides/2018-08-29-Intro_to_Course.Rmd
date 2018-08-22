@@ -29,7 +29,6 @@ Some slides are adopted (or copied) from OpenIntro: https://www.openintro.org/
 		* Meetup Presentation
 	* The `DATA606` R Package
 	* Using R Markdown
-* Intro to Data (Chapter 1)
 
 
 ## Introduction

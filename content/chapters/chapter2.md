@@ -47,9 +47,9 @@ DATA606::startLab('Lab2')
 
 ## Readings
 
-* [OpenIntro Statistics slides](https://github.com/jbryer/DATA606Spring2018/raw/master/Slides/OpenIntro/os2_slides_02.pdf)
+* [OpenIntro Statistics slides](https://github.com/jbryer/DATA606Fall2018/raw/master/Slides/OpenIntro/os2_slides_02.pdf)
 
-* Matloff, N. (2009). [*From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science*](https://github.com/jbryer/DATA606Spring2018/blob/master/Textbook/ProbStatBook.pdf?raw=true). Available from [http://heather.cs.ucdavis.edu/probstatbook](http://heather.cs.ucdavis.edu/probstatbook).
+* Matloff, N. (2009). [*From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science*](https://github.com/jbryer/DATA606Fall2018/blob/master/Textbook/ProbStatBook.pdf?raw=true). Available from [http://heather.cs.ucdavis.edu/probstatbook](http://heather.cs.ucdavis.edu/probstatbook).
 
 
 ## Videos

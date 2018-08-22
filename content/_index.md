@@ -68,7 +68,7 @@ This course is conducted entirely online. Each week, you will have various resou
 
 Meetup presentations will comprise the solution and presentation to the class of one of the suggested problems for study from the weekly materials (not the graded homework problems). Each student must present one problem throughout the semester. Problems are chosen by entering your name and problem in the Google Spreadsheet. Note there is a maximum of three presentations per meetup and presentations should be no more than five minutes. Additionally, prepare your presentation so that the slides or document (I suggest using R Markdown) will be shared on the course website. Problems are assigned first come, first served, so any problem not already chosen by another student is available.
 
-Further details on each of these assignments will be available in Blackboard and/or [this Github repository](https://github.com/jbryer/DATA606Spring2018).
+Further details on each of these assignments will be available in Blackboard and/or [this Github repository](https://github.com/jbryer/DATA606Fall2018).
 
 ## Textbooks
 
@@ -76,11 +76,11 @@ Further details on each of these assignments will be available in Blackboard and
 
 Diez, D.M., Barr, C.D., & Çetinkaya-Rundel, M. (2015). *OpenIntro Statistics (3rd Ed).* 
 
-> This is an open source textbook and can be downloaded in PDF format [here](https://github.com/jbryer/DATA606Spring2018/blob/master/Textbook/os3.pdf?raw=true), from the [OpenIntro](http://www.openintro.org/stat/textbook.php) website, or a printed copy can be ordered from [Amazon](https://www.openintro.org/redirect.php?go=amazon_os3&referrer=/stat/textbook.php).
+> This is an open source textbook and can be downloaded in PDF format [here](https://github.com/jbryer/DATA606Fall2018/blob/master/Textbook/os3.pdf?raw=true), from the [OpenIntro](http://www.openintro.org/stat/textbook.php) website, or a printed copy can be ordered from [Amazon](https://www.openintro.org/redirect.php?go=amazon_os3&referrer=/stat/textbook.php).
 
 Navarro, D. (2015, version 0.5). *Learning Statistics with R*
 
-> This is free textbook that supplements a lot of the material covered in Diez and Barr. We will use the chapter on Bayesian analysis. You can download a [PDF version](https://github.com/jbryer/DATA606Spring2018/blob/master/Textbook/lsr-0.5.pdf?raw=true), or buy a print copy from Lulu through the [author's website](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/).
+> This is free textbook that supplements a lot of the material covered in Diez and Barr. We will use the chapter on Bayesian analysis. You can download a [PDF version](https://github.com/jbryer/DATA606Fall2018/blob/master/Textbook/lsr-0.5.pdf?raw=true), or buy a print copy from Lulu through the [author's website](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/).
 
 #### Recommended
 
@@ -102,8 +102,8 @@ Kruschke, J.K. (2014). *Doing Bayesian Data Analysis, Second Edition: A Tutorial
 
 #### Other Documents
 
-* [Probability Tables](https://github.com/jbryer/DATA606Spring2018/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
-* [Inference Guide](https://github.com/jbryer/DATA606Spring2018/blob/master/Textbook/os2_extra_inference_guide.pdf?raw=true)
+* [Probability Tables](https://github.com/jbryer/DATA606Fall2018/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
+* [Inference Guide](https://github.com/jbryer/DATA606Fall2018/blob/master/Textbook/os2_extra_inference_guide.pdf?raw=true)
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 * [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 
@@ -111,7 +111,7 @@ Kruschke, J.K. (2014). *Doing Bayesian Data Analysis, Second Edition: A Tutorial
 
 Office Hours (cell phone or using GoToMeeting): By appointment. You're encouraged to schedule an appointment, but you can try to call anytime.
 
-You are encouraged to ask us questions on the ["Github Issues"](https://github.com/jbryer/DATA606Spring2018/issues) feature on the course repository where other students will be able to benefit from your inquiries. If you wish to ask a question in private, you can email the instructor directly.
+You are encouraged to ask us questions on the ["Github Issues"](https://github.com/jbryer/DATA606Fall2018/issues) feature on the course repository where other students will be able to benefit from your inquiries. If you wish to ask a question in private, you can email the instructor directly.
 
 For the most part, you can expect me to respond to questions by email within 24 to 48 hours. If you do not hear back from me within 48 hours of sending an email, please resend your message.
 
