@@ -18,7 +18,7 @@ Access Code: 890-853-557
 
 Date                  | Topic                           | Resources |
 :---------------------|:--------------------------------|:----------|
-                      | Intro to Course                 | [Slides](slides/2018-08-29-Intro_to_Course.html)
+                      | Intro to Course                 | [Slides](/slides/2018-08-29-Intro_to_Course.html)
 Wed, Sep 5, 8:00 pm   | Intro to Data                   | 
 Wed, Sep 12,  8:00 pm | Probability                     | 
 September 19          | NO MEETUP - Yom Kippur          | 
