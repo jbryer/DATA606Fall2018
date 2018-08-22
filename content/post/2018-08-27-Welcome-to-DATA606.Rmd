@@ -15,3 +15,5 @@ Welcome to DATA606! My name is Dr. Jason Bryer and I will be your instructor for
 * Our meetups will be on Wednesday from 8pm to 9pm.
 * I am looking forward to getting to know everyone and a fantastic semester! Good luck!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i2DM7nqb1rA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+

@@ -133,8 +133,3 @@ R Markdown files are provided for all the labs. You can start a lab using the `D
 
 However, creating new R Markdown files in RStudio can be done by clicking `File` > `New File` > `R Markdown`.
 
-## Working Directories
-
-When working with files in R, there are two ways to specify paths: 1. Using absolute paths (i.e. starting with `C:/` or `/` on Windows and Mac/Lunix, respectively), or relative paths (possibly without any directory information). When working with the latter, where R looks will be based upon the working directory. You can get the working directory with `getwd()` and set the working directory with `setwd()`. In RStudio, you can also set the working directory on the `Files` tab by clicking `More`, then `Set as Working Directory`.
-
-
