@@ -5,7 +5,7 @@ weight = 3
 +++
 
 
-The solutions to the practice problems are at the end of the book and do not need to be handed in. Graded assignments should be typed (preferably using R Markdown) or neatly hand written and scanned. Data for the homework assignments, and for within the chapters too, can be downloaded [here](https://github.com/jbryer/DATA606Fall2018/tree/master/Data/Data%20from%20openintro.org).
+The solutions to the practice problems are at the end of the book and do not need to be handed in. Graded assignments should be typed (preferably using R Markdown) or neatly hand written and scanned. Data for the homework assignments, and for within the chapters too, can be downloaded [here](https://github.com/jbryer/DATA606Fall2018/tree/master/data/openintro.org). Or alternatively all the data is included in the `openintro` R packge (use the `data(package = 'openintro')` command to list all the datasets available in that package).
 
 * Chapter 1 - Introduction to Data
 	* Practice: 1.7 (available in R using the `data(iris)` command), 1.9, 1.23, 1.33, 1.55, 1.69
@@ -31,5 +31,3 @@ The solutions to the practice problems are at the end of the book and do not nee
 * Chapter 8 - Multiple and Logistic Regression
 	* Practice: 8.1, 8.3, 8.7, 8.15, 8.17
 	* Graded: 8.2, 8.4, 8.8, 8.16, 8.18
-*  Navarro Chapter 17 - Bayesian Analysis
-	* Graded: TBD
