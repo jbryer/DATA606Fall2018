@@ -18,8 +18,8 @@ Access Code: 890-853-557
 Date                  | Topic                           | Resources |
 :---------------------|:--------------------------------|:----------|
                       | Intro to Course                 | [Video](https://youtu.be/i2DM7nqb1rA), [Slides](/slides/2018-08-29-Intro_to_Course.html)
-Wed, Sep 5, 8:00 pm   | Intro to Data                   | [Video](https://youtu.be/iuzpN-GSyQM), [Slides](/slides/2018-09-05-Intro_to_Data.html), [R](https://github.com/jbryer/DATA606Fall2018/blob/master/R/2018-09-05.R)
-Wed, Sep 12,  8:00 pm | Probability                     | 
+Wed, Sep 5, 8:00 pm   | Intro to Data                   | [Video](https://youtu.be/iuzpN-GSyQM), [Slides](/slides/2018-09-05-Intro_to_Data.html), [R Script](https://github.com/jbryer/DATA606Fall2018/blob/master/R/2018-09-05.R)
+Wed, Sep 12,  8:00 pm | Probability                     | [Video](https://youtu.be/zAj5U_dQan8), [Slides](/slides/2018-09-12-Probability.html)
 September 19          | NO MEETUP - Yom Kippur          | 
 Wed, Sep 26,  8:00 pm | Distributions Part I            | 
 Wed, Oct 3,  8:00 pm  | Distributions Part II           | 
