@@ -21,7 +21,7 @@ Date                  | Topic                           | Resources |
 Wed, Sep 5, 8:00 pm   | Intro to Data                   | [Video](https://youtu.be/iuzpN-GSyQM), [Slides](/slides/2018-09-05-Intro_to_Data.html), [R Script](https://github.com/jbryer/DATA606Fall2018/blob/master/R/2018-09-05.R)
 Wed, Sep 12,  8:00 pm | Probability                     | [Video](https://youtu.be/zAj5U_dQan8), [Slides](/slides/2018-09-12-Probability.html)
 September 19          | NO MEETUP - Yom Kippur          | 
-Wed, Sep 26,  8:00 pm | Distributions Part I            | 
+Wed, Sep 26,  8:00 pm | Distributions Part I            | [Video](), [Slides](/slides/2018-09-26-Distributions.html)
 Wed, Oct 3,  8:00 pm  | Distributions Part II           | 
 Wed, Oct 10, 8:00 pm  | Foundation for Inference        | 
 Wed, Oct 17, 8:00 pm  | Foundation for Inference cont.  | 
