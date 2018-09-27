@@ -25,15 +25,15 @@ par(mar=c(2.5,1,2,1))
 
 ## Announcements
 
-* Please put the problem number you are going to present in the Google Spreadsheet as soon as you know. First one who selects the problem gets to present it.
 * If you used Rpubs for your presentation, please add a link in the spreadsheet.
 * Our Wednesday, October 31st meetup has been moved to Tuesday, October 30th.
 
 ## Meetup Presentations
 
-* Marius Jaskowski
-* Jimmy Ng
-* Elizabeth Drikman
+* Suma Gopal (1.9)
+* John Hancock (1.69)
+* Calvin Wong (2.5)
+
 
 ## Coin Tosses Revisited {.flexbox .vcenter}
 
@@ -125,7 +125,7 @@ polygon(c(lb,x[i],ub), c(0,y[i],0), col="grey90")
 text(0, .1, "99.7%")
 ```
 
-## What's the likelihood of ending with 15?
+## What's the likelihood of ending with 15? {.flexbox .vcenter}
 
 ```{r}
 pnorm(15, mean=mean(samples), sd=sd(samples))
