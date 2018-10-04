@@ -66,3 +66,4 @@ You are not to use data sources used in class or the textbooks. Possible data so
 * American National Election Survey (ANES) [http://www.electionstudies.org/](http://www.electionstudies.org/)
 * General Social Survey (GSS) [http://www3.norc.org/GSS+Website/](http://www3.norc.org/GSS+Website/)
 * Integrated Postsecondary Education Data System (IPEDS) [https://nces.ed.gov/ipeds/](https://nces.ed.gov/ipeds/)
+* U.S. Census and American Community Survey [https://cran.r-project.org/web/packages/acs/index.html](https://cran.r-project.org/web/packages/acs/index.html)
