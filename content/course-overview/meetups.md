@@ -23,7 +23,7 @@ Wed, Sep 12,  8:00 pm | Probability                     | [Video](https://youtu.
 September 19          | NO MEETUP - Yom Kippur          | 
 Wed, Sep 26,  8:00 pm | Distributions Part I            | [Video](https://youtu.be/cFQWEWptz_4), [Slides](/slides/2018-09-26-Distributions.html)
 Wed, Oct 3,  8:00 pm  | Distributions Part II           | [Video](https://youtu.be/Z4lUrXhCwoY), [Slides](/slides/2018-10-03-Distributions2.html)
-Wed, Oct 10, 8:00 pm  | Foundation for Inference        | 
+Wed, Oct 10, 8:00 pm  | Foundation for Inference        | [Video](https://youtu.be/O30CmU70PUA), [Slides](/slides/2018-10-10-Foundation_for_Inference.html)
 Wed, Oct 17, 8:00 pm  | Foundation for Inference cont.  | 
 Wed, Oct 24,  8:00pm  | Inference for Numerical Data    | 
 Tue, Oct 30,  8:00pm  | Inference for Categorical Data  | 
