@@ -25,7 +25,7 @@ Wed, Sep 26,  8:00 pm | Distributions Part I            | [Video](https://youtu.
 Wed, Oct 3,  8:00 pm  | Distributions Part II           | [Video](https://youtu.be/Z4lUrXhCwoY), [Slides](/slides/2018-10-03-Distributions2.html)
 Wed, Oct 10, 8:00 pm  | Foundation for Inference        | [Video](https://youtu.be/O30CmU70PUA), [Slides](/slides/2018-10-10-Foundation_for_Inference.html)
 Wed, Oct 17, 8:00 pm  | Foundation for Inference cont.  | [Video](https://youtu.be/ZQWQ4YlVdJE), [Slides](/slides/2018-10-17-Foundation_for_Inference2.html)
-Wed, Oct 24,  8:00pm  | Inference for Numerical Data    | 
+Wed, Oct 24,  8:00pm  | Inference for Numerical Data    | [Video](https://youtu.be/rC6iV2EWKZk), [Slides](/slides/2018-10-24-Inference_for_Numerical_Data.html)
 Tue, Oct 30,  8:00pm  | Inference for Categorical Data  | 
 Wed, Nov 7, 8:00 pm   | Linear Regression               | 
 Wed, Nov 14,  8:00 pm | Linear Regression cont.         | 
