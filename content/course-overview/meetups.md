@@ -27,7 +27,7 @@ Wed, Oct 10, 8:00 pm  | Foundation for Inference        | [Video](https://youtu.
 Wed, Oct 17, 8:00 pm  | Foundation for Inference cont.  | [Video](https://youtu.be/ZQWQ4YlVdJE), [Slides](/slides/2018-10-17-Foundation_for_Inference2.html)
 Wed, Oct 24,  8:00pm  | Inference for Numerical Data    | [Video](https://youtu.be/rC6iV2EWKZk), [Slides](/slides/2018-10-24-Inference_for_Numerical_Data.html)
 Tue, Oct 30,  8:00pm  | Inference for Categorical Data  | [Video](https://youtu.be/hD5VRMfiorE), [Slides](/slides/2018-10-30-Inference_for_Categorical_Data.html)
-Wed, Nov 7, 8:00 pm   | Linear Regression               | 
+Wed, Nov 7, 8:00 pm   | Linear Regression               | [Video](https://youtu.be/CwneHTbDECQ), [Slides](/slides/2018-11-07-Linear_Regression.html)
 Wed, Nov 14,  8:00 pm | Linear Regression cont.         | 
 November 21           | NO MEETUP - Thanksgiving        | 
 Wed, Nov 28, 8:00 pm  | Multiple & Logistic Regression  | 
