@@ -28,7 +28,7 @@ Wed, Oct 17, 8:00 pm  | Foundation for Inference cont.  | [Video](https://youtu.
 Wed, Oct 24,  8:00pm  | Inference for Numerical Data    | [Video](https://youtu.be/rC6iV2EWKZk), [Slides](/slides/2018-10-24-Inference_for_Numerical_Data.html)
 Tue, Oct 30,  8:00pm  | Inference for Categorical Data  | [Video](https://youtu.be/hD5VRMfiorE), [Slides](/slides/2018-10-30-Inference_for_Categorical_Data.html)
 Wed, Nov 7, 8:00 pm   | Linear Regression               | [Video](https://youtu.be/CwneHTbDECQ), [Slides](/slides/2018-11-07-Linear_Regression.html)
-Wed, Nov 14,  8:00 pm | Linear Regression cont.         | 
+Wed, Nov 14,  8:00 pm | Linear Regression cont.         | [Video](https://youtu.be/awTJIuIJVfg), [Slides](/slides/2018-11-14-Linear_Regression2.html), [R Script](https://github.com/jbryer/DATA606Fall2018/blob/master/R/2018-11-14.R), [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815), [Hello World](https://www.amazon.com/Hello-World-Being-Human-Algorithms/dp/039363499X/ref=sr_1_1?s=books&ie=UTF8&qid=1542248414&sr=1-1&keywords=hello+world)
 November 21           | NO MEETUP - Thanksgiving        | 
 Wed, Nov 28, 8:00 pm  | Multiple & Logistic Regression  | 
 Wed, Dec 5, 8:00 pm   | Intro to Bayesian Analysis      | 
