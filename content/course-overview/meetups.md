@@ -32,5 +32,5 @@ Wed, Nov 14,  8:00 pm | Linear Regression cont.         | [Video](https://youtu.
 November 21           | NO MEETUP - Thanksgiving        | 
 Wed, Nov 28, 8:00 pm  | Multiple & Logistic Regression  | [Video](https://youtu.be/A8dSZ86EGLc), [Slides](/slides/2018-11-28-Multiple_Regression.html)
 Wed, Dec 5, 8:00 pm   | Intro to Bayesian Analysis      | [Video](https://youtu.be/SMQdvV2GdlI), [Slides](/slides/2018-12-05-Bayesian_Analysis.html)
-Wed, Dec 12, 8:00 pm  | Wrap-Up                         | 
+Wed, Dec 12, 8:00 pm  | Wrap-Up                         | [Video](https://youtu.be/_5Ivt22fnHI), [Slides](/slides/2018-12-12-Final_Meetup.html)
 
