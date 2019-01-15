@@ -1,6 +1,6 @@
 # DATA 606 - Statistics and Probability for Data Analytics - Fall 2018
 
-This is the repository for the DATA 606 course for the Fall 2018 semester. The course website is at [data606.net](http://data606.net).
+This is the repository for the DATA 606 course for the Fall 2018 semester. The course website is at [data606.net](http://fall2018.data606.net).
 
 **Instructor:** Jason Bryer, Ph.D.  
 **Class Meetup:** Wednesday 8pm to 9pm  
